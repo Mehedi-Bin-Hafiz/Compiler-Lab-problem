@@ -1,0 +1,14 @@
+
+#input name form user
+
+name = input("what is your name?")
+#print name
+
+print('your name is: ',name)
+age = input (' enter your age')
+for i in range(age):
+       print(i)
+
+'''this is a multi line
+ comment'''
+
