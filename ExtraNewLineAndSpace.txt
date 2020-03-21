@@ -1,0 +1,13 @@
+name =        input("what is your name?")
+
+
+
+
+
+
+
+print            ('your name is: ', name)
+age      = input (' enter your age ')
+for i in       range(age):
+       print(i)
+
